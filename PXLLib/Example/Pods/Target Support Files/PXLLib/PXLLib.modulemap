@@ -1,0 +1,6 @@
+framework module PXLLib {
+  umbrella header "PXLLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

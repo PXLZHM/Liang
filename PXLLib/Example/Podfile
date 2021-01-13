@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PXLLib_Example' do
+  pod 'PXLLib', :path => '../'
+
+  target 'PXLLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

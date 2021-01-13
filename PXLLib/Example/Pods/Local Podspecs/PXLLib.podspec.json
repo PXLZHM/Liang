@@ -1,0 +1,22 @@
+{
+  "name": "PXLLib",
+  "version": "0.1.0",
+  "summary": "A short description of PXLLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pengxueliang/PXLLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pengxueliang": "pengxueliang@corp.netease.com"
+  },
+  "source": {
+    "git": "https://github.com/pengxueliang/PXLLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PXLLib/Classes/**/*"
+}
